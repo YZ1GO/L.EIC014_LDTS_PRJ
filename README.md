@@ -81,3 +81,5 @@ The following screenshots illustrate the general look of our game, as well as th
 <b><i>Fig 5. Lose message</i></b>
 <br>
 <br />
+
+## Project Grade: 18.60/20
